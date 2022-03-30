@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "732396246181",
+    "project_id": "gtanswer-8ecac",
+    "storage_bucket": "gtanswer-8ecac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732396246181:android:3147d373ee2faa5b8a694c",
+        "android_client_info": {
+          "package_name": "com.hamadioumar.mytasks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732396246181-r0knob0pqhqisf7fsuo5k1oifn9se34c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF36ThdDxqQ9mhfEFH5PRynRDTTyMGpow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732396246181-r0knob0pqhqisf7fsuo5k1oifn9se34c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
